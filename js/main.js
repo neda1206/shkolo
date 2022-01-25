@@ -25,7 +25,7 @@ function shoWform(el){
 
 window.onload = function(e){ 
 
-	var stro = 7655675456
+
 	document.querySelectorAll('a').forEach(function(element){
 		element.addEventListener('contextmenu', function(ev) {
 			ev.preventDefault();
